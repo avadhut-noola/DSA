@@ -38,7 +38,7 @@ int main() {
         if(i!=0) {
             //spaces
             for ( j=0; j < 2*i; j++) {
-            cout << " "; //Loop0 prints '2*(n-i-1)= even' spaces
+            cout << " "; //Loop0 prints 2*i spaces
         }
         }
 
